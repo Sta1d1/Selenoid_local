@@ -2,7 +2,7 @@ import pytest
 import os
 import random
 import time
-import allure # type: ignore
+import allure 
 import requests
 
 
