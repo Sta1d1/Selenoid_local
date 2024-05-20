@@ -1,0 +1,6 @@
+selenium==4.19.0
+pytest==8.1.1
+pyautogui==0.9.54
+pytest-xdist==3.6.1
+requests==2.31.0
+allure-pytest==2.13.5
